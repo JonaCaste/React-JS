@@ -1,0 +1,9 @@
+/* Creamos una hoja de estilo, que se crea como modulo */
+
+.error{
+    background-color: #dc3545;
+}
+
+.success{
+    background-color: #198754;
+}
